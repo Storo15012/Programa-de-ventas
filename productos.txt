@@ -1,0 +1,2 @@
+1	ps4	consola	300.0	0	300	10	consola	0	1
+2	ps5	consola	300.0	0	300	10	consola	0	2
